@@ -1,0 +1,27 @@
+div{
+    background-color: rgb(31, 31, 31);
+    width:100%;
+}
+  .divnav{
+      padding-left: 50px;
+  }
+  .img{
+      padding-left: 50px;
+  }
+  .namei{
+      color: aqua;
+      font-size: 30px;
+      padding-top: 19px;
+  }
+  
+  a {
+    float:left;
+    color: #f2f2f2;
+    padding: 22px 16px;
+    text-decoration: none;
+    font-size: 23px;
+  }
+  
+  a:hover {
+    color:blue;
+  }
